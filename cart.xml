@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cart.xsl"?>
+
+<Orders>
+    <CustomerId>C0001</CustomerId>
+    <ShippingFee>90</ShippingFee>
+    <Discount>20</Discount>
+    <SubTotal>800</SubTotal>
+	<Total>890</Total>
+	<PaymentMethod>Credit / Debit</PaymentMethod>
+	
+    <Items>
+        <Product>
+			<ProductTitle>Square Neck Rusched Bust Top</ProductTitle>
+			<ProductId> 001	</ProductId>
+			<ProductPrice>₱150</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>10	</ProductStc>
+			<ProductType>Women's Top</ProductType>
+			<ProductImg>images/image.product.1.jpg</ProductImg>
+		</Product>
+
+		<Product>
+			<ProductTitle>Wrap knot back fuzzy crop top</ProductTitle>
+			<ProductId>002</ProductId>
+			<ProductPrice>₱650</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>50</ProductStc>
+			<ProductType>Women's Top</ProductType>
+			<ProductImg>images/image.product.2.jpg</ProductImg>
+		</Product>	
+	
+		<Product>
+			<ProductTitle>Pom-pom Beanie</ProductTitle>
+			<ProductId>064</ProductId>
+			<ProductPrice>₱178</ProductPrice>
+			<ProductSize>One-size</ProductSize>
+			<ProductStc>100</ProductStc>
+			<ProductType>Hats</ProductType>
+			<ProductImg>images/image.product.69.jpg</ProductImg>
+		</Product>	
+
+		<Product>
+			<ProductTitle>Men Label Baseball Cap</ProductTitle>
+			<ProductId>065</ProductId>
+			<ProductPrice>₱134</ProductPrice>
+			<ProductSize>One-size</ProductSize>
+			<ProductStc>100</ProductStc>
+			<ProductType>Hats</ProductType>
+			<ProductImg>images/image.product.70.jpg</ProductImg>
+		</Product>	
+
+		<Product>
+			<ProductTitle>Color black lace-up front skate shoes</ProductTitle>
+			<ProductId>016</ProductId>
+			<ProductPrice>₱500</ProductPrice>
+			<ProductSize>EU35, EU36,EU37</ProductSize>
+			<ProductStc>50</ProductStc>
+			<ProductType>Shoes</ProductType>
+			<ProductImg>images/image.product.6.jpg</ProductImg>
+		</Product>	
+    </Items>
+
+	
+	<CustomerId2>C011</CustomerId2>
+    <ShippingFee2>90</ShippingFee2>
+    <Discount2>10</Discount2>
+    <SubTotal2>844</SubTotal2>
+	<Total2>760</Total2>
+	<PaymentMethod2>Credit / Debit</PaymentMethod2>
+
+	<Items2>
+        <Product>
+			<ProductTitle>Minimalist lace up front chunky sneakers</ProductTitle>
+			<ProductId> 017	</ProductId>
+			<ProductPrice>₱650</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>10</ProductStc>
+			<ProductType>Shoes</ProductType>
+			<ProductImg>images/image.product.7.jpg</ProductImg>
+		</Product>
+
+		<Product>
+			<ProductTitle>12pcs Plain Pleated Scrunchie</ProductTitle>
+			<ProductId>078</ProductId>
+			<ProductPrice>₱104</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>20</ProductStc>
+			<ProductType>Hair Accesories</ProductType>
+			<ProductImg>images/image.product.63.jpg</ProductImg>
+		</Product>	
+    </Items2>
+
+	<CustomerId3>C020</CustomerId3>
+    <ShippingFee3>90</ShippingFee3>
+    <Discount3>20</Discount3>
+    <SubTotal3>2,093</SubTotal3>
+	<Total3>1,074</Total3>
+	<PaymentMethod3>Credit / Debit</PaymentMethod3>
+	<Items3>
+        <Product>
+			<ProductTitle>Letter Graphic Hair Tie</ProductTitle>
+			<ProductId>076</ProductId>
+			<ProductPrice>₱34</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>10</ProductStc>
+			<ProductType>Hair Accesories</ProductType>
+			<ProductImg>images/image.product.61.jpg</ProductImg>
+		</Product>
+
+		<Product>
+			<ProductTitle>Men 2in1 Letter Graphic Sports Shorts</ProductTitle>
+			<ProductId>048</ProductId>
+			<ProductPrice>₱540</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>20</ProductStc>
+			<ProductType>Active Wear</ProductType>
+			<ProductImg>images/image.product.31.jpg</ProductImg>
+		</Product>	
+	
+		<Product>
+			<ProductTitle>Men Japanese Letter Graphic Color Block </ProductTitle>
+			<ProductId>041</ProductId>
+			<ProductPrice>₱733</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>20</ProductStc>
+			<ProductType>Hoodies and Sweatshirt</ProductType>
+			<ProductImg>images/image.product.48.jpg</ProductImg>
+		</Product>	
+
+		<Product>
+			<ProductTitle>Basics Men Drawstring</ProductTitle>
+			<ProductId>031</ProductId>
+			<ProductPrice>₱389</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>20</ProductStc>
+			<ProductType>Bottoms</ProductType>
+			<ProductImg>images/image.product.30.jpg</ProductImg>
+		</Product>	
+
+		<Product>
+			<ProductTitle>Men Letter and Building Print Tee</ProductTitle>
+			<ProductId>026</ProductId>
+			<ProductPrice>₱397</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>20</ProductStc>
+			<ProductType>Men's Top</ProductType>
+			<ProductImg>images/image.product.52.jpg</ProductImg>
+		</Product>	
+    </Items3>
+	
+</Orders> 
+
+
+
+

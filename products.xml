@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+
+<Products>
+	<Product>
+		<ProductTitle>Square Neck Rusched Bust Top</ProductTitle>
+        <ProductUrL>product-details.html</ProductUrL>
+		<ProductId>001</ProductId>
+		<ProductPrice>₱150</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Women's Top</ProductType>
+		<ProductImg>images/image.product.1.jpg</ProductImg>
+		<RetailerId>R001</RetailerId>
+		<RetailerName>David Angelo Mendoza</RetailerName>
+
+	</Product>
+
+	<Product>
+		<ProductTitle>Ditsy Floral Sweetheart Neck Crop top</ProductTitle>
+        <ProductUrL>product-details2.html</ProductUrL>
+		<ProductId>002</ProductId>
+		<ProductPrice>₱350</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Women's Top</ProductType>				
+		<ProductImg>images/image.product.3.jpg</ProductImg>
+		<RetailerId>R001</RetailerId>
+		<RetailerName>David Angelo Mendoza</RetailerName>
+
+	</Product>	
+	
+	<Product>
+		<ProductTitle>Wrap Knot Back Fuzzy Crop Top</ProductTitle>
+         <ProductUrL>product-details3.html</ProductUrL>
+		<ProductId>003</ProductId>
+		<ProductPrice>₱650</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Women's Top</ProductType>
+		<ProductImg>images/image.product.2.jpg</ProductImg>
+		<RetailerId>R001</RetailerId>
+		<RetailerName>David Angelo Mendoza</RetailerName>
+	</Product>
+
+	<Product>
+		<ProductTitle>High Waist Corduroy Pants</ProductTitle>
+        <ProductUrL>product-details4.html</ProductUrL>
+		<ProductId>006</ProductId>
+		<ProductPrice>₱400</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Bottom</ProductType>
+		<ProductImg>images/image.product.16.jpg</ProductImg>
+		<RetailerId>R002</RetailerId>
+		<RetailerName>Roi Andal</RetailerName>
+
+	</Product>
+
+	<Product>
+		<ProductTitle>Drawstring Waist windbreaker pants</ProductTitle>
+       <ProductUrL>product-details5.html</ProductUrL>
+		<ProductId>007</ProductId>
+		<ProductPrice>₱200</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Bottom</ProductType>
+		<ProductImg>images/image.product.17.jpg</ProductImg>
+		<RetailerId>R002</RetailerId>
+		<RetailerName>Roi Andal</RetailerName>
+
+	</Product>	
+
+	<Product>
+		<ProductTitle>Double pocket single breasted corduroy skirt</ProductTitle>
+       <ProductUrL>product-details6.html</ProductUrL>
+		<ProductId>008</ProductId>
+		<ProductPrice>₱400	</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Bottom</ProductType>
+		<ProductImg>images/image.product.18.jpg</ProductImg>
+		<RetailerId>R002</RetailerId>
+		<RetailerName>Roi Andal</RetailerName>
+
+	</Product>	
+	
+	<Product>
+		<ProductTitle>Mock Neck Split Thigh Bodycon Dress</ProductTitle>
+       <ProductUrL>product-details7.html</ProductUrL>
+		<ProductId>011</ProductId>
+		<ProductPrice>₱300</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Dress</ProductType>
+		<ProductImg>images/image.product.11.jpg</ProductImg>
+		<RetailerId>R003</RetailerId>
+		<RetailerName>Raphael Atienza</RetailerName>
+
+	</Product>
+
+	<Product>
+		<ProductTitle>Split Side Bodycon Dress</ProductTitle>
+       <ProductUrL>product-details8.html</ProductUrL>
+		<ProductId>012</ProductId>
+		<ProductPrice>₱250</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Dress</ProductType>
+		<ProductImg>images/image.product.12.jpg</ProductImg>
+		<RetailerId>R003</RetailerId>
+		<RetailerName>Raphael Atienza</RetailerName>
+
+	</Product>	
+
+	<Product>
+		<ProductTitle>Solid short sleeve side slit dress</ProductTitle>
+       <ProductUrL>product-details9.html</ProductUrL>
+		<ProductId>013</ProductId>
+		<ProductPrice>₱400</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Dress</ProductType>
+		<ProductImg>images/image.product.13.jpg</ProductImg>
+		<RetailerId>R003</RetailerId>
+		<RetailerName>Raphael Atienza</RetailerName>
+
+	</Product>	
+
+	<Product>
+		<ProductTitle>Color black lace-up front skate shoes</ProductTitle>
+       <ProductUrL>product-details10.html</ProductUrL>
+		<ProductId>016</ProductId>
+		<ProductPrice>₱500</ProductPrice>
+		<ProductSize>EU35, EU36,EU37</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Shoes</ProductType>
+		<ProductImg>images/image.product.6.jpg</ProductImg>
+		<RetailerId>R003</RetailerId>
+		<RetailerName>Raphael Atienza</RetailerName>
+
+	</Product>
+
+	<Product>
+		<ProductTitle>Minimalist lace up front chunky sneakers</ProductTitle>
+       <ProductUrL>product-details11.html</ProductUrL>
+		<ProductId>017</ProductId>
+		<ProductPrice>₱650</ProductPrice>
+		<ProductSize>EU35, EU36,EU37</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Shoes</ProductType>
+		<ProductImg>images/image.product.7.jpg</ProductImg>
+		<RetailerId>R003</RetailerId>
+		<RetailerName>Raphael Atienza</RetailerName>
+
+	</Product>	
+
+	<Product>
+		<ProductTitle>Minimalist open toe fluffy slippers</ProductTitle>
+       <ProductUrL>product-details12.html</ProductUrL>
+		<ProductId>018</ProductId>
+		<ProductPrice>₱800</ProductPrice>
+		<ProductSize>EU35, EU36,EU37, EU38</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Shoes</ProductType>
+		<ProductImg>images/image.product.8.jpg</ProductImg>
+		<RetailerId>R003</RetailerId>
+		<RetailerName>Raphael Atienza</RetailerName>
+
+	</Product>	
+
+	<Product>
+		<ProductTitle>3pack plain shorts bikini swimsuit and cover up</ProductTitle>
+        <ProductUrL>product-details13.html</ProductUrL>
+		<ProductId>021</ProductId>
+		<ProductPrice>₱850</ProductPrice>
+		<ProductStc>20</ProductStc>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductType>BeachWear</ProductType>
+		<ProductImg>images/image.product.21.jpg</ProductImg>
+		<RetailerId>R004</RetailerId>
+		<RetailerName>Tyer Mercado</RetailerName>
+	</Product>
+	
+	<Product>
+		<ProductTitle>Pom-pom trim split side cover up pants</ProductTitle>
+        <ProductUrL>product-details14.html</ProductUrL>
+		<ProductId>022</ProductId>
+		<ProductPrice>₱750</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>BeachWear</ProductType>
+		<ProductImg>images/image.product.22.jpg</ProductImg>
+		<RetailerId>R004</RetailerId>
+		<RetailerName>Tyer Mercado</RetailerName>
+	</Product>	
+	
+	<Product>
+		<ProductTitle>Cut-out push up bikini swimsuit</ProductTitle>
+        <ProductUrL>product-details15.html</ProductUrL>
+		<ProductId>023</ProductId>
+		<ProductPrice>₱500</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>BeachWear</ProductType>
+		<ProductImg>images/image.product.23.jpg</ProductImg>
+		<RetailerId>R004</RetailerId>
+		<RetailerName>Tyer Mercado</RetailerName>
+	</Product>	
+	
+
+	<Product>
+		<ProductTitle>Men Letter and Building Print Tee</ProductTitle>
+        <ProductUrL>product-details16.html</ProductUrL>
+		<ProductId>026</ProductId>
+		<ProductPrice>₱397</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Men's Top</ProductType>
+		<ProductImg>images/image.product.52.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Slogan Graphic Short Sleeve Tee</ProductTitle>
+        <ProductUrL>product-details17.html</ProductUrL>
+		<ProductId>027</ProductId>
+		<ProductPrice>₱469</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Men's Top</ProductType>
+		<ProductImg>images/image.product.53.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Graphic Print Tee Dye Top</ProductTitle>
+           <ProductUrL>product-details18.html</ProductUrL>
+		<ProductId>028</ProductId>
+		<ProductPrice>₱278</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Men's Top</ProductType>
+		<ProductImg>images/image.product.54.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+     
+	</Product>	
+
+	<Product>
+		<ProductTitle>Basics Men Drawstring</ProductTitle>
+		<ProductId>031</ProductId>
+        <ProductUrL>product-details19.html</ProductUrL>
+		<ProductPrice>₱389</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Bottoms</ProductType>
+		<ProductImg>images/image.product.30.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+     
+	</Product>	
+
+	<Product>
+		<ProductTitle>Flap Pocket Bermuda Shorts</ProductTitle>
+        <ProductUrL>product-details20.html</ProductUrL>
+		<ProductId>032</ProductId>
+		<ProductPrice>₱377</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Bottoms</ProductType>
+		<ProductImg>images/image.product.26.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+   
+	</Product>	
+
+	<Product>
+		<ProductTitle>Solid Wasted Jeans</ProductTitle>
+        <ProductUrL>product-details21.html</ProductUrL>
+		<ProductId>033</ProductId>
+		<ProductPrice>₱1,126</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Bottoms</ProductType>
+		<ProductImg>images/image.product.27.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+        
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Letter Graphic Tee and Tie Dye</ProductTitle>
+       <ProductUrL>product-details22.html</ProductUrL>
+		<ProductId>036</ProductId>
+		<ProductPrice>₱861</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Co-ords</ProductType>
+		<ProductImg>images/image.product.43.jpg</ProductImg>
+		<RetailerId>R006</RetailerId>
+		<RetailerName>France Madia</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Letter Graphic Tee and Tapeside</ProductTitle>
+       <ProductUrL>product-details23.html</ProductUrL>
+		<ProductId>037</ProductId>
+		<ProductPrice>₱990</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Co-ords</ProductType>
+		<ProductImg>images/image.product.44.jpg</ProductImg>
+		<RetailerId>R006</RetailerId>
+		<RetailerName>France Madia</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Notch and Short Set</ProductTitle>
+        <ProductUrL>product-details24.html</ProductUrL>
+		<ProductId>038</ProductId>
+		<ProductPrice>₱912</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Co-ords</ProductType>
+		<ProductImg>images/image.product.45.jpg</ProductImg>
+		<RetailerId>R006</RetailerId>
+		<RetailerName>France Madia</RetailerName>
+     
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Japanese Letter Graphic Color Block </ProductTitle>
+        <ProductUrL>product-details25.html</ProductUrL>
+		<ProductId>041</ProductId>
+		<ProductPrice>₱733</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Hoodies and Sweatshirt</ProductType>
+		<ProductImg>images/image.product.48.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Wave and Sun Print Drawstring Hoodie</ProductTitle>
+        <ProductUrL>product-details26.html</ProductUrL>
+		<ProductId>042</ProductId>
+		<ProductPrice>₱789</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Hoodies and Sweatshirt</ProductType>
+		<ProductImg>images/image.product.50.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+       
+	</Product>
+
+	<Product>
+		<ProductTitle>Men Cartoon and Letter Graphic</ProductTitle>
+     	<ProductUrL>product-details27.html</ProductUrL>
+		<ProductId>043</ProductId>
+		<ProductPrice>₱821</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Hoodies and Sweatshirt</ProductType>
+		<ProductImg>images/image.product.46.jpg</ProductImg>
+		<RetailerId>R005</RetailerId>
+		<RetailerName>Jade Jimenez</RetailerName>
+        
+	</Product>
+
+	<Product>
+		<ProductTitle>Men Drawsting Sports Hoodie</ProductTitle>
+        <ProductUrL>product-details28.html</ProductUrL>
+		<ProductId>046</ProductId>
+		<ProductPrice>₱599</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Active Wear</ProductType>
+		<ProductImg>images/image.product.32.jpg</ProductImg>
+		<RetailerId>R006</RetailerId>
+		<RetailerName>France Madia</RetailerName>
+     
+	</Product>
+
+	<Product>
+		<ProductTitle>Men Letter Graphic Print Drawsting</ProductTitle>
+        <ProductUrL>product-details29.html</ProductUrL>
+		<ProductId>047</ProductId>
+		<ProductPrice>₱690</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Active Wear</ProductType>
+		<ProductImg>images/image.product.33.jpg</ProductImg>
+		<RetailerId>R006</RetailerId>
+		<RetailerName>France Madia</RetailerName>
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men 2in1 Letter Graphic Sports Shorts</ProductTitle>
+        <ProductUrL>product-details30.html</ProductUrL>
+		<ProductId>048</ProductId>
+		<ProductPrice>₱540</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Active Wear</ProductType>
+		<ProductImg>images/image.product.31.jpg</ProductImg>
+		<RetailerId>R006</RetailerId>
+		<RetailerName>France Madia</RetailerName>
+       
+	</Product>	
+
+	
+	<Product>
+		<ProductTitle>Yierying Baby Boy Solid Botton Front Jumpsuit</ProductTitle>
+        <ProductUrL>product-details31.html</ProductUrL>
+		<ProductId>051</ProductId>
+		<ProductPrice>₱518</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Baby Wear</ProductType>
+		<ProductImg>images/image.product.40.jpg</ProductImg>
+		<RetailerId>R007</RetailerId>
+		<RetailerName>Eden Pusag</RetailerName>
+       
+	</Product>		
+
+	<Product>
+		<ProductTitle>Baby Boy Dinasour and Letter</ProductTitle>
+           <ProductUrL>product-details32.html</ProductUrL>
+		<ProductId>052</ProductId>
+		<ProductPrice>₱428</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Baby Wear</ProductType>
+		<ProductImg>images/image.product.36.jpg</ProductImg>
+		<RetailerId>R007</RetailerId>
+		<RetailerName>Eden Pusag</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Baby Girl Ribknit Tee and Short with Headband</ProductTitle>
+        <ProductUrL>product-details33.html</ProductUrL>
+		<ProductId>053</ProductId>
+		<ProductPrice>₱449</ProductPrice>
+		<ProductSize>S, M, L, XL</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Baby Wear</ProductType>
+		<ProductImg>images/image.product.38.jpg</ProductImg>
+		<RetailerId>R007</RetailerId>
+		<RetailerName>Eden Pusag</RetailerName>
+     
+	</Product>	
+
+	<Product>
+		<ProductTitle>3pcs PU Belts with Hole Punch</ProductTitle>
+        <ProductUrL>product-details34.html</ProductUrL>
+		<ProductId>056</ProductId>
+		<ProductPrice>₱212</ProductPrice>
+		<ProductSize>100cm</ProductSize>
+		<ProductStc>10</ProductStc>
+		<ProductType>Belts</ProductType>
+		<ProductImg>images/image.product.56.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+      
+	</Product>	
+
+	<Product>
+		<ProductTitle>2pcs Circle Decor Buckle Belt with Hole Punch</ProductTitle>
+        <ProductUrL>product-details35.html</ProductUrL>
+		<ProductId>057</ProductId>
+		<ProductPrice>₱190</ProductPrice>
+		<ProductSize>100cm</ProductSize>
+		<ProductStc>10</ProductStc>
+		<ProductType>Belts</ProductType>
+		<ProductImg>images/image.product.57.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+      
+	</Product>	
+
+	<Product>
+		<ProductTitle>Geometric Decor Buckle Belt with  Hole Punch</ProductTitle>
+        <ProductUrL>product-details36.html</ProductUrL>
+		<ProductId>058</ProductId>
+		<ProductPrice>₱140</ProductPrice>
+		<ProductSize>100cm</ProductSize>
+		<ProductStc>10</ProductStc>
+		<ProductType>Belts</ProductType>
+		<ProductImg>images/image.product.58.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+       
+	</Product>	
+
+	
+	<Product>
+		<ProductTitle>3pcs Minimalist Baseball Cap</ProductTitle>
+    	<ProductUrL>product-details37.html</ProductUrL>
+		<ProductId>061</ProductId>
+		<ProductPrice>₱277</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Hats</ProductType>
+		<ProductImg>images/image.product.66.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+       
+	</Product>		
+
+	<Product>
+		<ProductTitle>Men Minimalist Newsboy Hat</ProductTitle>
+        <ProductUrL>product-details38.html</ProductUrL>
+		<ProductId>062</ProductId>
+		<ProductPrice>₱217</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Hats</ProductType>
+		<ProductImg>images/image.product.67.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+ 
+	</Product>	
+
+	<Product>
+		<ProductTitle>Cloth Label Decor Beanie</ProductTitle>
+        <ProductUrL>product-details39.html</ProductUrL>
+		<ProductId>063</ProductId>
+		<ProductPrice>₱94</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Hats</ProductType>
+		<ProductImg>images/image.product.68.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>Men Meta Frame Sunglasses</ProductTitle>
+           <ProductUrL>product-details40.html</ProductUrL>
+		<ProductId>066</ProductId>
+		<ProductPrice>₱197</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Shades</ProductType>
+		<ProductImg>images/image.product.71.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+      
+	</Product>		
+
+	<Product>
+		<ProductTitle>Men Minimalist Sunglasses</ProductTitle>
+        <ProductUrL>product-details41.html</ProductUrL>
+		<ProductId>067</ProductId>
+		<ProductPrice>₱236</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Shades</ProductType>
+		<ProductImg>images/image.product.72.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+       
+	</Product>		
+
+	<Product>
+		<ProductTitle>Men Square Frame Sunglasses</ProductTitle>
+        <ProductUrL>product-details42.html</ProductUrL>
+		<ProductId>068</ProductId>
+		<ProductPrice>₱206</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Shades</ProductType>
+		<ProductImg>images/image.product.73.jpg</ProductImg>
+		<RetailerId>R008</RetailerId>
+		<RetailerName>Alliah Mandigma</RetailerName>
+       
+	</Product>	
+
+	<Product>
+		<ProductTitle>1pc Men Round Pointer Quartz Watchand 1pc Bracket</ProductTitle>
+        <ProductUrL>product-details43.html</ProductUrL>
+		<ProductId>071</ProductId>
+		<ProductPrice>₱224</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Watches</ProductType>
+		<ProductImg>images/image.product.76.jpg</ProductImg>
+		<RetailerId>R009</RetailerId>
+		<RetailerName>Tin Medrano</RetailerName>
+        
+	</Product>
+
+	<Product>
+		<ProductTitle>1pc Square Electronic Watch and 2pcs Bracelet</ProductTitle>
+        <ProductUrL>product-details44.html</ProductUrL>
+		<ProductId>072</ProductId>
+		<ProductPrice>₱242</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Watches</ProductType>
+		<ProductImg>images/image.product.77.jpg</ProductImg>
+		<RetailerId>R009</RetailerId>
+		<RetailerName>Tin Medrano</RetailerName>
+     
+	</Product>
+
+	<Product>
+		<ProductTitle>2pcs Couple Rhinestone Decor Quartz Watch</ProductTitle>
+        <ProductUrL>product-details45.html</ProductUrL>
+		<ProductId>073</ProductId>
+		<ProductPrice>₱327</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>5</ProductStc>
+		<ProductType>Watches</ProductType>
+		<ProductImg>images/image.product.78.jpg</ProductImg>
+		<RetailerId>R009</RetailerId>
+		<RetailerName>Tin Medrano</RetailerName>
+	</Product>			
+	<Product>
+		<ProductTitle>Letter Graphic Hair Tie</ProductTitle>
+    	<ProductUrL>product-details46.html</ProductUrL>
+		<ProductId>076</ProductId>
+		<ProductPrice>₱34</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Hair Accesories</ProductType>
+		<ProductImg>images/image.product.61.jpg</ProductImg>
+		<RetailerId>R009</RetailerId>
+		<RetailerName>Tin Medrano</RetailerName>
+  
+	</Product>	
+
+	<Product>
+		<ProductTitle>6pcs Faux Pearl Decor Hair CLip</ProductTitle>
+        <ProductUrL>product-details47.html</ProductUrL>
+		<ProductId>077</ProductId>
+		<ProductPrice>₱70</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>20</ProductStc>
+		<Section>women</Section>
+		<ProductType>Hair Accesories</ProductType>
+		<ProductImg>images/image.product.62.jpg</ProductImg>
+		<RetailerId>R009</RetailerId>
+		<RetailerName>Tin Medrano</RetailerName>
+      
+	</Product>
+
+	<Product>
+		<ProductTitle>12pcs Plain Pleated Scrunchie</ProductTitle>
+        <ProductUrL>product-details48.html</ProductUrL>
+		<ProductId>078</ProductId>
+		<ProductPrice>₱104</ProductPrice>
+		<ProductSize>One-size</ProductSize>
+		<ProductStc>20</ProductStc>
+		<ProductType>Hair Accesories</ProductType>
+		<ProductImg>images/image.product.63.jpg</ProductImg>
+		<RetailerId>R009</RetailerId>
+		<RetailerName>Tin Medrano</RetailerName>
+	</Product>
+
+</Products>

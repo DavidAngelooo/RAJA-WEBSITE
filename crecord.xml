@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CustomerRecord.xsl"?>
+
+<Accounts> 
+    <Customers>
+        <Customer>
+            <CustomerName>Ariana Grande</CustomerName>
+            <CustomerId>C001</CustomerId>
+            <CustomerContact>09970452144</CustomerContact>
+            <CustomerEmail>ariangrande@gmail.com</CustomerEmail>
+            <CustomerAddress>Padre Garcia</CustomerAddress>
+        </Customer>    
+
+        <Customer>
+            <CustomerName>Taylor Swift</CustomerName>
+            <CustomerId>C002</CustomerId>
+            <CustomerContact>09125478723</CustomerContact>
+            <CustomerEmail>swiftytay@gmail.com</CustomerEmail>
+            <CustomerAddress>Riverside Subdivision Lipa City</CustomerAddress>
+        </Customer>  
+
+         <Customer>  
+            <CustomerName>Olivia Rodrigo</CustomerName>
+            <CustomerId>C003</CustomerId>
+            <CustomerContact>09892314313</CustomerContact>
+            <CustomerEmail>ubetrayedme@gmail.com</CustomerEmail>
+            <CustomerAddress>Maraouy Lipa City</CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Adele Adkins</CustomerName>
+            <CustomerId>C004</CustomerId>
+            <CustomerContact>09415784321</CustomerContact>
+            <CustomerEmail>adelesingingwoman@gmail.com</CustomerEmail>
+            <CustomerAddress>Plantacion</CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Cardi B</CustomerName>
+            <CustomerId>C005</CustomerId>
+            <CustomerContact>09342157834</CustomerContact>
+            <CustomerEmail>okurur@gmail.com</CustomerEmail>
+            <CustomerAddress>San Isidro Lipa City</CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Marian Rivera</CustomerName>
+            <CustomerId>C006</CustomerId>
+            <CustomerContact>09456782461</CustomerContact>
+            <CustomerEmail>storyofmylifesearchingfortheright@gmail.com</CustomerEmail>
+            <CustomerAddress> Sabang Lipa City</CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Lady Gaga</CustomerName>
+            <CustomerId>C007</CustomerId>
+            <CustomerContact>09128991209</CustomerContact>
+            <CustomerEmail>gagabadromance@gmail.com</CustomerEmail>
+            <CustomerAddress>Siargao </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Justin Bieber</CustomerName>
+            <CustomerId>C008</CustomerId>
+            <CustomerContact>09458721300</CustomerContact>
+            <CustomerEmail>justinbaby@gmail.com</CustomerEmail>
+            <CustomerAddress>Inosloban Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Beyonce Knowles</CustomerName>
+            <CustomerId>C009</CustomerId>
+            <CustomerContact>09896753492</CustomerContact>
+            <CustomerEmail>beyone_whoruntheworld@gmail.com</CustomerEmail>
+            <CustomerAddress>Tanauan Batangas City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Rihanna Andal</CustomerName>
+            <CustomerId>C010</CustomerId>
+            <CustomerContact>09786534124</CustomerContact>
+            <CustomerEmail>undermyumbrella@gmail.com</CustomerEmail>
+            <CustomerAddress> Lumbang Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Nikki Minaj</CustomerName>
+            <CustomerId>C011</CustomerId>
+            <CustomerContact>09564321867</CustomerContact>
+            <CustomerEmail>superbass@gmail.com</CustomerEmail>
+            <CustomerAddress> San Benito Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Katy Perry</CustomerName>
+            <CustomerId>C012</CustomerId>
+            <CustomerContact>09453216789</CustomerContact>
+            <CustomerEmail>katy_theonedatgotawy@gmail.com</CustomerEmail>
+            <CustomerAddress> Mataas Na Kahoy Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Selena Gomez</CustomerName>
+            <CustomerId>C013</CustomerId>
+            <CustomerContact>095674321</CustomerContact>
+            <CustomerEmail>selena_kllthmwtkindness@gmail.com</CustomerEmail>
+            <CustomerAddress> San Sebastian Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Shawn Mendez</CustomerName>
+            <CustomerId>C014</CustomerId>
+            <CustomerContact>09784617852</CustomerContact>
+            <CustomerEmail>shawn_tritubttr@gmail.com</CustomerEmail>
+            <CustomerAddress> Bulacnin Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName> Demi Lovato</CustomerName>
+            <CustomerId>C015</CustomerId>
+            <CustomerContact>09895613267</CustomerContact>
+            <CustomerEmail>demi_heartattack12@gmail.com</CustomerEmail>
+            <CustomerAddress> Balagbag Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Ed Sheeran</CustomerName>
+            <CustomerId>C016</CustomerId>
+            <CustomerContact>09655647865</CustomerContact>
+            <CustomerEmail>ed_tinkngoutloud@gmail.com</CustomerEmail>
+            <CustomerAddress> Latag Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Miley Cyrus</CustomerName>
+            <CustomerId>C017</CustomerId>
+            <CustomerContact>09788761253</CustomerContact>
+            <CustomerEmail>cyrus_rekingbol@gmail.com</CustomerEmail>
+            <CustomerAddress> Tambo Lipa City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Camila Cabello</CustomerName>
+            <CustomerId>C018</CustomerId>
+            <CustomerContact>09214315678</CustomerContact>
+            <CustomerEmail>cabello_senorita@gmail.com</CustomerEmail>
+            <CustomerAddress>Lima Marlvar City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Charlie Puth</CustomerName>
+            <CustomerId>C019</CustomerId>
+            <CustomerContact>09546324865</CustomerContact>
+            <CustomerEmail>charlie_wedontoknymr@gmail.com</CustomerEmail>
+            <CustomerAddress>Bulacnin City </CustomerAddress>
+        </Customer>
+
+        <Customer>
+            <CustomerName>Zayn Malik</CustomerName>
+            <CustomerId>C020</CustomerId>
+            <CustomerContact>09875431236</CustomerContact>
+            <CustomerEmail>zany_pllwtk@gmail.com</CustomerEmail>
+            <CustomerAddress>Riverside Lipa City </CustomerAddress>
+        </Customer>
+    </Customers>
+	
+	<Retailers>
+        <Retailer>
+            <RetailerName>David Angelo Mendoza</RetailerName>
+            <RetailerId>R001</RetailerId>
+			<RetailerType>Local</RetailerType>
+            <RetailerContact>09970452144</RetailerContact>
+            <RetailerEmail>angelo.mendoza@gmail.com</RetailerEmail>
+            <RetailerAddress>Padre Garcia</RetailerAddress>
+			<RetailerProductType>Womens Top</RetailerProductType>
+			<RetailerProductQty>5</RetailerProductQty>
+        </Retailer>  
+
+        <Retailer>
+            <RetailerName>Roi Andal</RetailerName>
+            <RetailerId>R002</RetailerId>
+			<RetailerType>Overseas</RetailerType>
+            <RetailerContact>09120454146</RetailerContact>
+            <RetailerEmail>roiandal@gmail.com</RetailerEmail>
+            <RetailerAddress>Xezhen China</RetailerAddress>
+			<RetailerProductType>Womens Buttoms</RetailerProductType>
+			<RetailerProductQty>5</RetailerProductQty>
+        </Retailer>
+
+        <Retailer>
+            <RetailerName>Raphael Atienza</RetailerName>
+            <RetailerId>R003</RetailerId>
+			<RetailerType>Local</RetailerType>
+            <RetailerContact>09176416043</RetailerContact>
+            <RetailerEmail>raphaelatienza@gmail.com</RetailerEmail>
+            <RetailerAddress>Bolbok</RetailerAddress>
+			<RetailerProductType>Dresses, Shoes</RetailerProductType>
+			<RetailerProductQty>10</RetailerProductQty>
+        </Retailer>
+
+         <Retailer>
+            <RetailerName>Tyer Mercado</RetailerName>
+            <RetailerId>R004</RetailerId>
+			<RetailerType>Local</RetailerType>
+            <RetailerContact>09052312653</RetailerContact>
+            <RetailerEmail>tyermercado@gmail.com</RetailerEmail>
+            <RetailerAddress>Padre Garcia</RetailerAddress>
+			<RetailerProductType>SwimWear</RetailerProductType>
+			<RetailerProductQty>5</RetailerProductQty>
+        </Retailer>
+
+        <Retailer>
+            <RetailerName>Jade Jimenez</RetailerName>
+            <RetailerId>R005</RetailerId>
+			<RetailerType>Overseas</RetailerType>
+            <RetailerContact>09376171246</RetailerContact>
+            <RetailerEmail>jadejimenez@gmail.com</RetailerEmail>
+            <RetailerAddress>Bangkok Thailand</RetailerAddress>
+			<RetailerProductType>Men's Top, Bottoms, Hoodies</RetailerProductType>
+			<RetailerProductQty>15</RetailerProductQty>
+        </Retailer>
+
+        <Retailer>
+            <RetailerName>France Madia</RetailerName>
+            <RetailerId>R006</RetailerId>
+			<RetailerType>Local</RetailerType>
+            <RetailerContact>09215768912</RetailerContact>
+            <RetailerEmail>madiafrance@gmail.com</RetailerEmail>
+            <RetailerAddress>Rosa Villa Latag</RetailerAddress>
+			<RetailerProductType> Co-ords, Activewear</RetailerProductType>
+			<RetailerProductQty>10</RetailerProductQty>
+        </Retailer>
+
+        <Retailer>
+            <RetailerName>Eden Pusag</RetailerName>
+            <RetailerId>R007</RetailerId>
+			<RetailerType>Overseas</RetailerType>
+            <RetailerContact>09855635780</RetailerContact>
+            <RetailerEmail>edenpusag@gmail.com</RetailerEmail>
+            <RetailerAddress>Taiwan</RetailerAddress>
+			<RetailerProductType>Toddler Onesies</RetailerProductType>
+			<RetailerProductQty>5</RetailerProductQty>
+        </Retailer>
+
+        <Retailer>
+            <RetailerName>Alliah Mandigma</RetailerName>
+            <RetailerId>R008</RetailerId>
+			<RetailerType>Local</RetailerType>
+            <RetailerContact>09144317892</RetailerContact>
+            <RetailerEmail>mandigmaalliah@gmail.com</RetailerEmail>
+            <RetailerAddress>Mataas Na Kahoy</RetailerAddress>
+			<RetailerProductType> Belts, Hats, Sunglasses</RetailerProductType>
+			<RetailerProductQty>15</RetailerProductQty>
+        </Retailer>
+
+        <Retailer>
+            <RetailerName>Tin Medrano</RetailerName>
+            <RetailerId>R009</RetailerId>
+            <RetailerType>Overseas</RetailerType>
+            <RetailerContact>09215148734</RetailerContact>
+            <RetailerEmail>tinmedrano@gmail.com</RetailerEmail>
+            <RetailerAddress>Dubai</RetailerAddress>
+			<RetailerProductType>Watch, Hair Accessories</RetailerProductType>
+			<RetailerProductQty>10</RetailerProductQty>
+        </Retailer>
+    </Retailers>
+</Accounts>

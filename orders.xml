@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="orderrec.xsl"?>
+
+<OrdersRec>
+		<Orders>
+			<RetailerId>R001</RetailerId>
+			<RetailerName>David Angelo Mendoza</RetailerName>
+			<ProductId>001</ProductId>
+			<ProductType>Women's Top</ProductType>
+			<ProductTitle>Square Neck Rusched Bust Top</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱150</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>002</ProductId>
+			<ProductType>Women's Top</ProductType>
+			<ProductTitle>Ditsy Floral Sweetheart Neck Crop top</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱350</ProductPrice>
+		</Orders>
+		
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>003</ProductId>
+			<ProductType>Women's Top</ProductType>
+			<ProductTitle>Wrap Knot Back Fuzzy Crop Top</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱650</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R002</RetailerId>
+			<RetailerName>Roi Andal</RetailerName>
+			<ProductId>006</ProductId>
+			<ProductType>Bottom</ProductType>
+			<ProductTitle>High Waist Corduroy Pants</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱400</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<RetailerName> </RetailerName>
+			<ProductId>007</ProductId>
+			<ProductType>Bottom</ProductType>
+			<ProductTitle>Drawstring Waist windbreaker pants</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱200</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<RetailerName> </RetailerName>
+			<ProductId>008</ProductId>
+			<ProductType>Bottom</ProductType>
+			<ProductTitle>Double pocket single breasted corduroy skirt</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱400</ProductPrice>
+		</Orders>
+		
+		<Orders>
+			<RetailerId>R003</RetailerId>
+			<RetailerName>Raphael Atienza</RetailerName>
+			<ProductId>011</ProductId>
+			<ProductType>Dress</ProductType>
+			<ProductTitle>Mock Neck Split Thigh Bodycon Dress</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱300</ProductPrice>
+		</Orders>
+
+
+		<Orders>
+			<ProductId>012</ProductId>
+			<ProductType>Dress</ProductType>
+			<ProductTitle>Split Side Bodycon Dress</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱250</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>013</ProductId>
+			<ProductType>Dress</ProductType>
+			<ProductTitle>Solid short sleeve side slit dress</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱400</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R003</RetailerId>
+			<RetailerName>Raphael Atienza</RetailerName>
+			<ProductId>016</ProductId>
+			<ProductType>Shoes</ProductType>
+			<ProductTitle>Color black lace-up front skate shoes</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>EU35, EU36,EU37</ProductSize>
+			<ProductPrice>₱500</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<ProductId>017</ProductId>
+			<ProductType>Shoes</ProductType>
+			<ProductTitle>Minimalist lace up front chunky sneakers</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>EU35, EU36, EU37</ProductSize>
+			<ProductPrice>₱650</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>018</ProductId>
+			<ProductType>Shoes</ProductType>
+			<ProductTitle>Minimalist open toe fluffy slippers</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>EU35, EU36, EU37,EU38</ProductSize>
+			<ProductPrice>₱800</ProductPrice>
+		</Orders>
+		
+		<Orders>
+			<RetailerId>R004</RetailerId>
+			<RetailerName>Tyer Mercado</RetailerName>
+			<ProductId>021</ProductId>
+			<ProductType>Beachwear</ProductType>
+			<ProductTitle>3pack plain shorts bikini swimsuit and cover up</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱850</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>022</ProductId>
+			<ProductType>Beachwear</ProductType>
+			<ProductTitle>Pom-pom trim split side cover up pants</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱750</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>023</ProductId>
+			<ProductType>Beachwear</ProductType>
+			<ProductTitle>Cut-out push up bikini swimsuit</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱500</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R005</RetailerId>
+			<RetailerName>Jade Jimenez</RetailerName>
+			<ProductId>026</ProductId>
+			<ProductType>Men's Top</ProductType>
+			<ProductTitle>Men Letter and Building Print Tee</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱397</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>027</ProductId>
+			<ProductType>Men's Top</ProductType>
+			<ProductTitle>Men Slogan Graphic Short Sleeve Tee</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱469</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>028</ProductId>
+			<ProductType>Men's Top</ProductType>
+			<ProductTitle>Men Graphic Print Tee Dye Top</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱278</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R005</RetailerId>
+			<RetailerName>Jade Jimenez</RetailerName>
+			<ProductId>031</ProductId>
+			<ProductType>Bottoms</ProductType>
+			<ProductTitle>Basics Men Drawstring</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱389</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>032</ProductId>
+			<ProductType>Bottoms</ProductType>
+			<ProductTitle>Flap Pocket Bermuda Shorts</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱377</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>033</ProductId>
+			<ProductType>Bottoms</ProductType>
+			<ProductTitle>Solid Wasted Jeans</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱1,126</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R006</RetailerId>
+			<RetailerName>France Madia</RetailerName>
+			<ProductId>036</ProductId>
+			<ProductType>Co-ords</ProductType>
+			<ProductTitle>Men Letter Graphic Tee and Tie Dye</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱861</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>037</ProductId>
+			<ProductType>Co-ords</ProductType>
+			<ProductTitle>Men Letter Graphic Tee and Tapeside</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱990</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>038</ProductId>
+			<ProductType>Co-ords</ProductType>
+			<ProductTitle>Men Notch and Short Set</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱912</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R005</RetailerId>
+			<RetailerName>Jade Jimenez</RetailerName>
+			<ProductId>041</ProductId>
+			<ProductType>Hoodies and Sweatshirt</ProductType>
+			<ProductTitle>Men Japanese Letter Graphic Color Block</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱733</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>042</ProductId>
+			<ProductType>Hoodies and Sweatshirt</ProductType>
+			<ProductTitle>Men Wave and Sun Print Drawstring Hoodie</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱789</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>043</ProductId>
+			<ProductType>Hoodies and Sweatshirt</ProductType>
+			<ProductTitle>Men Cartoon and Letter Graphic</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱821</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R006</RetailerId>
+			<RetailerName>France Madia</RetailerName>
+			<ProductId>046</ProductId>
+			<ProductType>Active Wear</ProductType>
+			<ProductTitle>Men Drawsting Sports Hoodie</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱599</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>047</ProductId>
+			<ProductType>Active Wear</ProductType>
+			<ProductTitle>Men Letter Graphic Print Drawsting</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱690</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>048</ProductId>
+			<ProductType>Active Wear</ProductType>
+			<ProductTitle>Men 2in1 Letter Graphic Sports Shorts</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱540</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R007</RetailerId>
+			<RetailerName>Eden Pusag</RetailerName>
+			<ProductId>051</ProductId>
+			<ProductType>Baby Wear</ProductType>
+			<ProductTitle>Yierying Baby Boy Solid Botton Front Jumpsuit</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱518</ProductPrice>
+		</Orders>
+
+		
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>052</ProductId>
+			<ProductType>Baby Wear</ProductType>
+			<ProductTitle>Baby Boy Dinasour and Letter</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱428</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>053</ProductId>
+			<ProductType>Baby Wear</ProductType>
+			<ProductTitle>Baby Girl Ribknit Tee and Short with Headband</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductPrice>₱449</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R008</RetailerId>
+			<RetailerName>Alliah Mandigma</RetailerName>
+			<ProductId>056</ProductId>
+			<ProductType>Belts</ProductType>
+			<ProductTitle>3pcs PU Belts with Hole Punch</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱212</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>057</ProductId>
+			<ProductType>Belts</ProductType>
+			<ProductTitle>2pcs Circle Decor Buckle Belt with Hole Punch</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱190</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>058</ProductId>
+			<ProductType>Belts</ProductType>
+			<ProductTitle>Geometric Decor Buckle Belt with  Hole Punch</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱140</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>058</ProductId>
+			<ProductType>Belts</ProductType>
+			<ProductTitle>Geometric Decor Buckle Belt with  Hole Punch</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱140</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R008</RetailerId>
+			<RetailerName>Alliah Mandigma</RetailerName>
+			<ProductId>061</ProductId>
+			<ProductType>Hats</ProductType>
+			<ProductTitle>3pcs Minimalist Baseball Cap</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱277</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>062</ProductId>
+			<ProductType>Hats</ProductType>
+			<ProductTitle>Men Minimalist Newsboy Hat</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱217</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>063</ProductId>
+			<ProductType>Hats</ProductType>
+			<ProductTitle>Cloth Label Decor Beanie</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱94</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R008</RetailerId>
+			<RetailerName>Alliah Mandigma</RetailerName>
+			<ProductId>066</ProductId>
+			<ProductType>Shades</ProductType>
+			<ProductTitle>Men Meta Frame Sunglasses</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱197</ProductPrice>
+		</Orders>
+
+		
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>067</ProductId>
+			<ProductType>Shades</ProductType>
+			<ProductTitle>Men Minimalist Sunglasses</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱236</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>068</ProductId>
+			<ProductType>Shades</ProductType>
+			<ProductTitle>Men Square Frame Sunglasses</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱206</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R009</RetailerId>
+			<RetailerName>Tin Medrano</RetailerName>
+			<ProductId>071</ProductId>
+			<ProductType>Watches</ProductType>
+			<ProductTitle>1pc Men Round Pointer Quartz Watchand 1pc Bracket</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱224</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>072</ProductId>
+			<ProductType>Watches</ProductType>
+			<ProductTitle>Men Square Frame Sunglasses</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱242</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>073</ProductId>
+			<ProductType>Watches</ProductType>
+			<ProductTitle>2pcs Couple Rhinestone Decor Quartz Watch</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱327</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId>R009</RetailerId>
+			<RetailerName>Tin Medrano</RetailerName>
+			<ProductId>076</ProductId>
+			<ProductType>Hair Accesories</ProductType>
+			<ProductTitle>Letter Graphic Hair Tie</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱34</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>077</ProductId>
+			<ProductType>Hair Accesories</ProductType>
+			<ProductTitle>6pcs Faux Pearl Decor Hair CLip</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱70</ProductPrice>
+		</Orders>
+
+		<Orders>
+			<RetailerId></RetailerId>
+			<ProductId>078</ProductId>
+			<ProductType>Hair Accesories</ProductType>
+			<ProductTitle>12pcs Plain Pleated Scrunchie</ProductTitle>
+			<ProductQty>20</ProductQty>
+			<ProductSize>one-size</ProductSize>
+			<ProductPrice>₱104</ProductPrice>
+		</Orders>
+</OrdersRec>
+        

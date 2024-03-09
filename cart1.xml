@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cart.xsl"?>
+
+<Orders>
+    <CustomerId>C0005</CustomerId>
+    <ShippingFee>90</ShippingFee>
+    <Discount>20</Discount>
+    <SubTotal>800</SubTotal>
+	<Total>890</Total>
+	<PaymentMethod>Credit / Debit</PaymentMethod>
+	
+    <Items>
+        <Product>
+			<ProductTitle>Square Neck Rusched Bust Top</ProductTitle>
+			<ProductId> 001	</ProductId>
+			<ProductPrice>₱150</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>10	</ProductStc>
+			<Section>Women</Section>
+			<ProductType>Top</ProductType>
+			<ProductImg>images/image.product.1.jpg</ProductImg>
+		</Product>
+
+		<Product>
+			<ProductTitle>Wrap knot back fuzzy crop top</ProductTitle>
+			<ProductId>002</ProductId>
+			<ProductPrice>₱650</ProductPrice>
+			<ProductSize>S, M, L, XL</ProductSize>
+			<ProductStc>50</ProductStc>
+			<Section>Women</Section>
+			<ProductType>Top</ProductType>
+			<ProductImg>images/image.product.2.jpg</ProductImg>
+		</Product>	
+	
+		<Product>
+			<ProductTitle>Pom-pom Beanie</ProductTitle>
+			<ProductId>064</ProductId>
+			<ProductPrice>₱178</ProductPrice>
+			<ProductSize>One-size</ProductSize>
+			<ProductStc>100</ProductStc>
+			<Section>unisex</Section>
+			<ProductType>Hats</ProductType>
+			<ProductImg>images/image.product.69.jpg</ProductImg>
+		</Product>	
+
+		<Product>
+			<ProductTitle>Men Label Baseball Cap</ProductTitle>
+			<ProductId>065</ProductId>
+			<ProductPrice>₱134</ProductPrice>
+			<ProductSize>One-size</ProductSize>
+			<ProductStc>100</ProductStc>
+			<Section>unisex</Section>
+			<ProductType>Hats</ProductType>
+			<ProductImg>images/image.product.70.jpg</ProductImg>
+		</Product>	
+
+		<Product>
+			<ProductTitle>Color black lace-up front skate shoes</ProductTitle>
+			<ProductId>016</ProductId>
+			<ProductPrice>₱500</ProductPrice>
+			<ProductSize>EU35, EU36,EU37</ProductSize>
+			<ProductStc>50</ProductStc>
+			<Section>Women</Section>
+			<ProductType>Shoes</ProductType>
+			<ProductImg>images/image.product.6.jpg</ProductImg>
+		</Product>	
+    </Items>
+
+	
+</Orders> 
+
